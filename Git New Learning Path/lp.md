@@ -6,4 +6,3 @@ isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 0
-dih: truen
