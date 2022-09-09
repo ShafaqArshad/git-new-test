@@ -5,4 +5,4 @@ description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrty
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 1
+scenarioCount: 0
