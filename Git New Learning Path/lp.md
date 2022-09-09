@@ -1,6 +1,6 @@
 categories:
   - istio
-title: GiT New Learning Path 1 Hhhghghguyhgvhjghghjgjhjguyjg
+title: Git New Learning Path 1 Hhhghghguyhgvhjghghjgjhjguyjg
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrtyrytrf tty
 isPremium: true
 isNew: true
