@@ -3,4 +3,4 @@ categories:
 title: Git New Learning Path
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrtyrytrf tty
 isPremium: true
-isNew: truee
+isNew: true
