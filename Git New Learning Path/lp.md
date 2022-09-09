@@ -1,3 +1,3 @@
 categories:
   - istio
-Title: Git New Learning Path
+title: GiT New Learning Path
