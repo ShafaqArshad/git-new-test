@@ -4,4 +4,4 @@ time: 23 minuteswws
 level: experting
 isPremium: false
 isNew: false
-isAvailable: ftrue
+isAvailable: true
