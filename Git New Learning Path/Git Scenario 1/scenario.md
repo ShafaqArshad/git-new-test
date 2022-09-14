@@ -5,3 +5,4 @@ level: expert
 isPremium: true
 isNew: true
 isAvailable: true
+steps:
