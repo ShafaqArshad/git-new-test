@@ -6,3 +6,4 @@ isPremium: true
 isNew: true
 isAvailable: true
 steps:
+    -step1.md
