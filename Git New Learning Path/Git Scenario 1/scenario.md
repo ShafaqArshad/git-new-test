@@ -1,6 +1,6 @@
 title: Git Scenario 1
 description: understanding Golang test scenario 1
-time: 20 minutees
+time: 250 minutes
 level: expert
 isPremium: true
 isNew: true
