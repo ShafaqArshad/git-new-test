@@ -7,3 +7,4 @@ isNew: true
 isAvailable: true
 steps:
     - step1.md
+    - step2.md
