@@ -1,10 +1,10 @@
 categories:
-  - istio
-title: Git New Learning Path
-description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrtyrytrf tty
-isPremium: true
-isNew: true
-isAvailable: true
-scenarioCount: 1
+  - istioio
+title: Git New Learning Pathh guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
+description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
+isPremium: falsee
+isNew: false
+isAvailable: truee
+scenarioCount: 2
 scenarios:
-  - Git Scenario 1
+  - Git Scenario 12
