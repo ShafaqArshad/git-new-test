@@ -2,8 +2,8 @@ categories:
   - istio
 title: Git New Learning Path
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
-isPremium: false
-isNew: true
+isPremium: true
+isNew: false
 isAvailable: true
 scenarioCount: 1
 scenarios:
