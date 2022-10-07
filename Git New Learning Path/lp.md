@@ -1,6 +1,6 @@
 categories:
   - istioio
-title: Git New Learning Pathh guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
+title: Git New Learning Pathh
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
 isPremium: falsee
 isNew: false
