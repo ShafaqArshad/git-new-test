@@ -1,8 +1,9 @@
 categories:
   - istio
+  - kubernetes
 title: Git New Learning Path
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
-isPremium: false
+isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 1
