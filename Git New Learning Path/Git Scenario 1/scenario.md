@@ -1,11 +1,10 @@
-title: Git Scenario 11
+title: Git Scenario 1
 description: Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python
-time: 250 minutesss
+time: 25 minutes
 steps:
   - step1.md
-  - step2.md
 isNew: falsee
 isPremium: false
 isAvailable: truee
-level: experting
+level: expert
 pointsLess: true
