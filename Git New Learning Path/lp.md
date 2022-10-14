@@ -5,6 +5,6 @@ description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty r
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 2
+scenarioCount: 1
 scenarios:
   - Git Scenario 13
