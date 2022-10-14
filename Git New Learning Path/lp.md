@@ -3,7 +3,7 @@ categories:
 title: Git New Learning Path drrt
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very 
 isPremium: true
-isNew: false
+isNew: true
 isAvailable: true
 scenarioCount: 2
 scenarios:
