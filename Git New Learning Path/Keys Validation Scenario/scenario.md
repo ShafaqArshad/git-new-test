@@ -1,6 +1,5 @@
 title: Keys Validation Scenario
-description: Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python Understanding python and go scenaarios for testing the description of lp python 
-time: 25 minutes
+description: Understanding python and go scenaarios for testing the description of lp python
 steps:
   - step1.md
 isNew: true
