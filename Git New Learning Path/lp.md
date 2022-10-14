@@ -7,4 +7,4 @@ isNew: true
 isAvailable: true
 scenarioCount: 1
 scenarios:
-  - Git Scenario 13
+  - Git Scenario 1
