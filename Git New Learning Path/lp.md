@@ -1,3 +1,4 @@
+title: Git New Learning Path
 categories:
   - istio
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very 
